@@ -1,0 +1,33 @@
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+    margin: .4rem 0;
+    width: 300px;
+    border-radius: 5px;
+
+}
+
+body {
+    font-family: Arial;
+}
+
+.Stuur {
+    width: 300px;
+    border-radius: 5px;
+}
+
+input {
+    font: 1rem 'Fira Sans', sans-serif;
+    margin: .4rem 0;
+    width: 300px;
+    border-radius: 5px;
+}
+
+textarea {
+    border: solid;
+    border-color: red;
+}
+
+textarea:focus {
+    border-color: green;
+}
+
